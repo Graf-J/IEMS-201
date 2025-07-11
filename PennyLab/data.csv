@@ -1,31 +1,121 @@
-Name,Attempt,Hand,Mass [g],Underground,x [cm],y [cm]
-Johannes,1,Right,2.3,Wood,-2.7,2.5
-Johannes,2,Right,2.3,Wood,-4,4.6
-Johannes,3,Right,2.3,Wood,-6,-0.9
-Johannes,4,Right,2.3,Wood,-5.9,0.8
-Johannes,5,Right,2.3,Wood,-1.5,0
-Johannes,6,Right,2.3,Wood,-5,-1.3
-Johannes,7,Right,2.3,Wood,-7,-1.7
-Johannes,8,Right,2.3,Wood,-6.9,-3.3
-Johannes,9,Right,2.3,Wood,-4.1,-1.7
-Johannes,10,Right,2.3,Wood,-3.4,-0.1
-Johannes,11,Left,2.3,Wood,4.7,-1.4
-Johannes,12,Left,2.3,Wood,4.4,0.8
-Johannes,13,Left,2.3,Wood,0,-1.4
-Johannes,14,Left,2.3,Wood,2.2,1
-Johannes,15,Left,2.3,Wood,1.6,-0.7
-Johannes,16,Left,2.3,Wood,6.5,0
-Johannes,17,Left,2.3,Wood,3.4,-1.6
-Johannes,18,Left,2.3,Wood,6.6,1.4
-Johannes,19,Left,2.3,Wood,2.1,-1.9
-Johannes,20,Left,2.3,Wood,-4.7,-3.2
-Johannes,21,Both,2.3,Wood,-1,1
-Johannes,22,Both,2.3,Wood,-1.9,1.8
-Johannes,23,Both,2.3,Wood,-2.4,6.1
-Johannes,24,Both,2.3,Wood,-0.8,-0.3
-Johannes,25,Both,2.3,Wood,2.3,5.5
-Johannes,26,Both,2.3,Wood,0.7,8.9
-Johannes,27,Both,2.3,Wood,-1,2.5
-Johannes,28,Both,2.3,Wood,0.8,3
-Johannes,29,Both,2.3,Wood,-1.4,1.6
-Johannes,30,Both,2.3,Wood,0.5,1.9
+Name,Attempt,Hand,Mass [g],Underground,x [cm],y [cm],Leaves the grid
+Johannes,1,Right,2.3,Wood,-2.7,2.5,
+Johannes,2,Right,2.3,Wood,-4,4.6,
+Johannes,3,Right,2.3,Wood,-6,-0.9,
+Johannes,4,Right,2.3,Wood,-5.9,0.8,
+Johannes,5,Right,2.3,Wood,-1.5,0,
+Johannes,6,Right,2.3,Wood,-5,-1.3,
+Johannes,7,Right,2.3,Wood,-7,-1.7,
+Johannes,8,Right,2.3,Wood,-6.9,-3.3,
+Johannes,9,Right,2.3,Wood,-4.1,-1.7,
+Johannes,10,Right,2.3,Wood,-3.4,-0.1,
+Johannes,1,Left,2.3,Wood,4.7,-1.4,
+Johannes,2,Left,2.3,Wood,4.4,0.8,
+Johannes,3,Left,2.3,Wood,0,-1.4,
+Johannes,4,Left,2.3,Wood,2.2,1,
+Johannes,5,Left,2.3,Wood,1.6,-0.7,
+Johannes,6,Left,2.3,Wood,6.5,0,
+Johannes,7,Left,2.3,Wood,3.4,-1.6,
+Johannes,8,Left,2.3,Wood,6.6,1.4,
+Johannes,9,Left,2.3,Wood,2.1,-1.9,
+Johannes,10,Left,2.3,Wood,-4.7,-3.2,
+Johannes,1,Both,2.3,Wood,-1,1,
+Johannes,2,Both,2.3,Wood,-1.9,1.8,
+Johannes,3,Both,2.3,Wood,-2.4,6.1,
+Johannes,4,Both,2.3,Wood,-0.8,-0.3,
+Johannes,5,Both,2.3,Wood,2.3,5.5,
+Johannes,6,Both,2.3,Wood,0.7,8.9,
+Johannes,7,Both,2.3,Wood,-1,2.5,
+Johannes,8,Both,2.3,Wood,0.8,3,
+Johannes,9,Both,2.3,Wood,-1.4,1.6,
+Johannes,10,Both,2.3,Wood,0.5,1.9,
+Paul,1,Right,5.67,Hard Plastic,-5.4,-0.6,
+Paul,2,Right,5.67,Hard Plastic,-4.9,-2.3,
+Paul,3,Right,5.67,Hard Plastic,-2.8,2.5,
+Paul,4,Right,5.67,Hard Plastic,-4.3,2.3,
+Paul,5,Right,5.67,Hard Plastic,-3.7,0.4,
+Paul,6,Right,5.67,Hard Plastic,-3.9,1.1,
+Paul,7,Right,5.67,Hard Plastic,-4.3,2.3,
+Paul,8,Right,5.67,Hard Plastic,-5.5,-0.4,
+Paul,9,Right,5.67,Hard Plastic,-4.5,0.4,
+Paul,10,Right,5.67,Hard Plastic,-2.5,0.5,
+Paul,1,Left,5.67,Hard Plastic,9.3,5.5,
+Paul,2,Left,5.67,Hard Plastic,7.7,4.6,
+Paul,3,Left,5.67,Hard Plastic,10.4,4.3,
+Paul,4,Left,5.67,Hard Plastic,8.3,2.8,
+Paul,5,Left,5.67,Hard Plastic,9.4,5.3,
+Paul,6,Left,5.67,Hard Plastic,5.1,2.3,
+Paul,7,Left,5.67,Hard Plastic,5.3,4.7,
+Paul,8,Left,5.67,Hard Plastic,8.3,3.6,
+Paul,9,Left,5.67,Hard Plastic,5.2,1.5,
+Paul,10,Left,5.67,Hard Plastic,6.5,2.2,
+Paul,1,Both,5.67,Hard Plastic,9.8,2.7,
+Paul,2,Both,5.67,Hard Plastic,3.3,0.8,
+Paul,3,Both,5.67,Hard Plastic,9,3.7,
+Paul,4,Both,5.67,Hard Plastic,-0.8,2.4,
+Paul,5,Both,5.67,Hard Plastic,2.4,2.4,
+Paul,6,Both,5.67,Hard Plastic,8,4.8,
+Paul,7,Both,5.67,Hard Plastic,5.1,5.6,
+Paul,8,Both,5.67,Hard Plastic,6.3,4,
+Paul,9,Both,5.67,Hard Plastic,10,5,
+Paul,10,Both,5.67,Hard Plastic,8.3,3.3,
+Yuanyuan,1,Right,2.5,Wood,-6,-3,
+Yuanyuan,2,Right,2.5,Wood,-0.6,-1.3,
+Yuanyuan,3,Right,2.5,Wood,-1.3,1.4,
+Yuanyuan,4,Right,2.5,Wood,-3.2,-5.1,
+Yuanyuan,5,Right,2.5,Wood,-8.5,-8.6,
+Yuanyuan,6,Right,2.5,Wood,-5,0.6,
+Yuanyuan,7,Right,2.5,Wood,-5,-6.3,
+Yuanyuan,8,Right,2.5,Wood,-4.1,-6.8,
+Yuanyuan,9,Right,2.5,Wood,-7.2,-6.9,
+Yuanyuan,10,Right,2.5,Wood,-7.9,-6.3,
+Yuanyuan,1,Left,2.5,Wood,7,4,
+Yuanyuan,2,Left,2.5,Wood,3,6.3,
+Yuanyuan,3,Left,2.5,Wood,3.9,1,
+Yuanyuan,4,Left,2.5,Wood,3.2,8.1,
+Yuanyuan,5,Left,2.5,Wood,0,6.6,
+Yuanyuan,6,Left,2.5,Wood,8.3,8.2,
+Yuanyuan,7,Left,2.5,Wood,5.8,9.8,
+Yuanyuan,8,Left,2.5,Wood,0.6,9.8,
+Yuanyuan,9,Left,2.5,Wood,2.1,11.4,
+Yuanyuan,10,Left,2.5,Wood,5.7,11.1,
+Yuanyuan,1,Both,2.5,Wood,0.1,2,
+Yuanyuan,2,Both,2.5,Wood,0.8,2.3,
+Yuanyuan,3,Both,2.5,Wood,2.2,2.2,
+Yuanyuan,4,Both,2.5,Wood,-3.5,2.5,
+Yuanyuan,5,Both,2.5,Wood,-1,-1.4,
+Yuanyuan,6,Both,2.5,Wood,4.2,2.2,
+Yuanyuan,7,Both,2.5,Wood,2.2,5.5,
+Yuanyuan,8,Both,2.5,Wood,-0.3,-0.1,
+Yuanyuan,9,Both,2.5,Wood,-1,0.6,
+Yuanyuan,10,Both,2.5,Wood,-0.2,1.4,
+Xinqi,1,Right,2.5,Plastic,8.1,-4,
+Xinqi,2,Right,2.5,Plastic,11.2,-4.5,Yes
+Xinqi,3,Right,2.5,Plastic,5.7,-2.2,
+Xinqi,4,Right,2.5,Plastic,3.2,-1.5,
+Xinqi,5,Right,2.5,Plastic,-0.2,1,
+Xinqi,6,Right,2.5,Plastic,2.8,-3.5,
+Xinqi,7,Right,2.5,Plastic,8.8,-1.4,
+Xinqi,8,Right,2.5,Plastic,-1.3,0.9,
+Xinqi,9,Right,2.5,Plastic,3.3,-10.4,
+Xinqi,10,Right,2.5,Plastic,-3.7,-4.3,
+Xinqi,1,Left,2.5,Plastic,-6,4,
+Xinqi,2,Left,2.5,Plastic,1.1,-3.6,
+Xinqi,3,Left,2.5,Plastic,-3.9,-0.9,
+Xinqi,4,Left,2.5,Plastic,0.5,-2.3,
+Xinqi,5,Left,2.5,Plastic,-4,-6.1,
+Xinqi,6,Left,2.5,Plastic,-3.4,1.4,
+Xinqi,7,Left,2.5,Plastic,-5.7,-5.2,
+Xinqi,8,Left,2.5,Plastic,-4.7,-5.2,
+Xinqi,9,Left,2.5,Plastic,-0.7,0.5,
+Xinqi,10,Left,2.5,Plastic,2,-5.3,
+Xinqi,1,Both,2.5,Plastic,7.3,-1.3,
+Xinqi,2,Both,2.5,Plastic,11.6,-5.5,Yes
+Xinqi,3,Both,2.5,Plastic,8.6,-4.4,
+Xinqi,4,Both,2.5,Plastic,1.3,-1.4,
+Xinqi,5,Both,2.5,Plastic,-2.4,-4.4,
+Xinqi,6,Both,2.5,Plastic,0.2,-4.7,
+Xinqi,7,Both,2.5,Plastic,-0.1,-0.7,
+Xinqi,8,Both,2.5,Plastic,1.5,-3.9,
+Xinqi,9,Both,2.5,Plastic,3.1,-0.9,
+Xinqi,10,Both,2.5,Plastic,1.1,1.5,
