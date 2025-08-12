@@ -1,5 +1,4 @@
 ,Team,Student Number,Student Name,Car Name,Model Year,MPG,Weight (lbs),Weight Distribution (%),Length (in),Width (in),Height (in),Cylinders,Engine Displacement (L),Transmission Type,Transmission Speeds
-0,0,0,Prof A,The Batmobile,2012.0,60.0,4000.0,59.0,191.73,70.47,57.09,8.0,2.4,1.0,15
 1,1,1,Jack McCartney,Mazda Miata MX-5,1992.0,23.0,2121.0,53.0,155.51,66.14,48.03,4.0,1.6,0.0,5
 2,1,1,Jack McCartney,Chyrsler New Yorker,1992.0,19.0,3337.0,63.0,193.7,68.9,53.54,6.0,3.3,1.0,4
 3,1,1,Jack McCartney,Ford Crown Victoria,1992.0,20.0,3738.0,56.0,212.6,77.95,56.69,8.0,4.6,1.0,4
@@ -99,7 +98,7 @@
 107,5,2,Amulya Angajala,Hyundai Accent,2010.0,31.0,2332.49,62.0,159.45,66.93,66.93,4.0,1.6,0.0,5
 108,5,2,Amulya Angajala,Mazda mx5,2009.0,24.0,2464.0,51.0,157.09,67.72,49.21,4.0,2.0,0.0,5
 109,5,2,Amulya Angajala,Honda Fit Hatch,2009.0,29.0,2466.0,62.0,161.81,58.66,59.84,4.0,1.5,0.0,5
-110,5,2,Amulya Angajala,Mazda2 Hatch,2011.0,32.0,22.9942,62.0,155.51,66.54,58.27,4.0,1.5,0.0,5
+110,5,2,Amulya Angajala,Mazda2 Hatch,2011.0,32.0,2299.42,62.0,155.51,66.54,58.27,4.0,1.5,0.0,5
 111,5,3,Andrew SaLoutos,Ford Focus,2011.0,29.0,2623.5,61.0,175.2,67.72,58.66,4.0,2.0,0.0,5
 112,5,3,Andrew SaLoutos,Honda Civic,2010.0,29.0,2597.04,60.0,174.8,68.9,53.54,4.0,1.8,1.0,5
 113,5,3,Andrew SaLoutos,Hyundai Accent,2012.0,32.0,2575.0,62.0,162.2,66.93,57.09,4.0,1.6,0.0,6
